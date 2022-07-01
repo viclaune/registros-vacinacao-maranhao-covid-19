@@ -1,3 +1,11 @@
-https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
+![image](https://user-images.githubusercontent.com/107379028/176961839-3c6d05e0-16df-4fb3-8871-0960688af805.png)
 
 # Registros de Vacinação - Maranhão Covid 19
+
+## Descrição do projeto
+Neste repositório, foi realizado a transformação de um sample do registro de vacinação de covid 19 no Maranhão em csv para parquet.
+
+## Técnicas e tecnologias utilizadas
+* `Python 3.10` 
+* `Jupyter Notebook / Jupyter Lab`
+* `PySpark`
